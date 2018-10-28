@@ -1,0 +1,1 @@
+/*This should contain common js code if any*/

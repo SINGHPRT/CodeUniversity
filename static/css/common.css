@@ -1,0 +1,16 @@
+/* This file contains styles for common components of site */
+body {
+font-family: cursive,'Open Sans',Helvetica Neue,Helvetica,Arial,sans-serif;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.jumbotron {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+ /* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
